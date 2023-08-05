@@ -1,0 +1,23 @@
+.linkstyle {
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .linkstyle:hover {
+    text-decoration: underline;
+    color: #f0f0f0;
+  }
+
+  .btstyle {
+    transition: background-color 0.3s ease;
+  }
+  
+  .btstyle:hover {
+    background-color: whitesmoke;
+  }
+
+.customContainer {
+    max-width: 500px; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the container horizontally */
+
+}
